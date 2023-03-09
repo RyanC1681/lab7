@@ -40,7 +40,7 @@ class ListExamples {
     }
     while(index2 < list2.size()) {
       result.add(list2.get(index2));
-      index2 += 1; //edit this line
+      index1 += 1; //edit this line
     }
     return result;
   }
